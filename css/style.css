@@ -82,7 +82,9 @@ body {
 ::-webkit-scrollbar {
   width: 0px;
 }
-
+.container-fluid.position-relative {
+    background: #f6cc40;
+}
 [tabindex="-1"]:focus:not(:focus-visible) {
     outline: 0 !important;
 }
