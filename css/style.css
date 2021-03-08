@@ -64,6 +64,9 @@ nav,
 section {
     display: block;
 }
+.container-fluid.position-relative {
+    background: #f6cc40;
+}
 
 body {
     margin: 0;
