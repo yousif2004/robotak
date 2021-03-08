@@ -9820,7 +9820,7 @@ button.bg-dark:focus {
 
 @media (min-width: 992px) {
     .text-lg-left {
-        text-align: left !important;
+        text-align: right !important;
     }
     .text-lg-right {
         text-align: right !important;
